@@ -1,1 +1,1 @@
-console.log("hi");
+// This is a comment.
